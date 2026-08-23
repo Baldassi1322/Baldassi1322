@@ -4,6 +4,8 @@
 
 Northamptonshire, UK | advbaldassi@gmail.com | English, Spanish, Portuguese
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Baldassi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-b-2a4235161)
+
 ---
 
 ### About Me
@@ -55,6 +57,7 @@ Python | SQL | Jira | DPIA | RoPA | ISO 27001:2022 | UK GDPR | GDPR
 ### Get in Touch
 
 - Email: [advbaldassi@gmail.com](mailto:advbaldassi@gmail.com)
+- LinkedIn: [linkedin.com/in/sandro-b-2a4235161](https://www.linkedin.com/in/sandro-b-2a4235161)
 - Location: Northamptonshire, UK
 
 ---
@@ -107,6 +110,7 @@ Certificado em ISO 27001:2022, GRCP, IDPP e Scrum.
 ### Contato
 
 - E-mail: [advbaldassi@gmail.com](mailto:advbaldassi@gmail.com)
+- LinkedIn: [linkedin.com/in/sandro-b-2a4235161](https://www.linkedin.com/in/sandro-b-2a4235161)
 - Localização: Northamptonshire, Reino Unido
 
 </details>

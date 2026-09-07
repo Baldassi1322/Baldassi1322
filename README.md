@@ -62,6 +62,11 @@ Personal Python projects, organised by area and complexity as I build up my soft
 |---|---|---|---|
 | [calculadora-tkinter](https://github.com/Baldassi1322/calculadora-tkinter) | Python · Desktop / GUI | 🟢 Beginner | Simple calculator with a Tkinter graphical interface |
 | [calculadora-ip-subnet](https://github.com/Baldassi1322/calculadora-ip-subnet) | Python · Networking / GRC | 🟡 Intermediate | CLI tool for IPv4 address and subnet (FLSM) calculations |
+| [book-manager](https://github.com/Baldassi1322/book-manager) | Python · CLI / Database | 🟡 Intermediate | Command-line book collection manager with SQLite backend and CSV export |
+| [organizador-aulas](https://github.com/Baldassi1322/organizador-aulas) | Python · Automation / Files | 🟡 Intermediate | Scans a study folder (videos + PDFs) and generates a navigable HTML index grouped by module |
+| [resumidor-transcricoes](https://github.com/Baldassi1322/resumidor-transcricoes) | Python · NLP / Automation | 🟡 Intermediate | Extractive summariser for YouTube lecture transcripts, exporting an annotated PDF |
+| [stockflow-inventory-management](https://github.com/Baldassi1322/stockflow-inventory-management) | Python · Backend / API (FastAPI) | 🔴 Advanced | Backend-first inventory and stock management API (FastAPI, PostgreSQL, JWT auth, CI) |
+| [automarket-intelligent-car-marketplace](https://github.com/Baldassi1322/automarket-intelligent-car-marketplace) | Python · Backend / API (FastAPI) | 🔴 Advanced | Car marketplace API with a Car Value Index comparing listings against the market (FastAPI, PostgreSQL) |
 
 ### Get in Touch
 
@@ -124,6 +129,11 @@ Projetos pessoais em Python, organizados por área e complexidade, à medida que
 |---|---|---|---|
 | [calculadora-tkinter](https://github.com/Baldassi1322/calculadora-tkinter) | Python · Desktop / GUI | 🟢 Iniciante | Calculadora simples com interface gráfica em Tkinter |
 | [calculadora-ip-subnet](https://github.com/Baldassi1322/calculadora-ip-subnet) | Python · Redes / GRC | 🟡 Intermediário | Ferramenta CLI para cálculo de endereços IPv4 e sub-redes (FLSM) |
+| [book-manager](https://github.com/Baldassi1322/book-manager) | Python · CLI / Banco de Dados | 🟡 Intermediário | Gerenciador de coleção de livros via linha de comando, com SQLite e exportação para CSV |
+| [organizador-aulas](https://github.com/Baldassi1322/organizador-aulas) | Python · Automação / Arquivos | 🟡 Intermediário | Varre uma pasta de estudo (vídeos + PDFs) e gera um índice HTML navegável agrupado por módulo |
+| [resumidor-transcricoes](https://github.com/Baldassi1322/resumidor-transcricoes) | Python · NLP / Automação | 🟡 Intermediário | Resumidor extrativo de transcrições de aulas do YouTube, com geração de PDF comentado |
+| [stockflow-inventory-management](https://github.com/Baldassi1322/stockflow-inventory-management) | Python · Backend / API (FastAPI) | 🔴 Avançado | API de gestão de estoque e inventário (FastAPI, PostgreSQL, autenticação JWT, CI) |
+| [automarket-intelligent-car-marketplace](https://github.com/Baldassi1322/automarket-intelligent-car-marketplace) | Python · Backend / API (FastAPI) | 🔴 Avançado | API de marketplace de veículos com Índice de Valor do Carro comparando anúncios ao mercado (FastAPI, PostgreSQL) |
 
 ### Contato
 

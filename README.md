@@ -2,13 +2,13 @@
 
 **GRC | Data Privacy | Data Governance | Technology Risk**
 
-Northamptonshire, UK Â· English, Portuguese, Spanish Â· [LinkedIn](https://www.linkedin.com/in/sandro-b-2a4235161) Â· advbaldassi@gmail.com
+Northamptonshire, UK · English, Portuguese, Spanish · [LinkedIn](https://www.linkedin.com/in/sandro-b-2a4235161) · advbaldassi@gmail.com
 
 ## About me
 
 GRC and Data Privacy professional with a multidisciplinary background spanning law, regulatory compliance, investigations, operational risk, software engineering and data analysis.
 
-Dual-qualified lawyer (Brazil and Portugal) with over 20 years of legal and regulatory experience, complemented by a BEng (Hons) in Software Engineering completed in September 2026. Practical exposure to UK GDPR / EU GDPR, DPIAs, RoPA, data mapping, DSAR processes and ISO 27001 principles, alongside Python and SQL based data analysis.
+Dual-qualified lawyer (Brazil and Portugal) with over 20 years of legal and regulatory experience, complemented by a BEng (Hons) in Software Engineering completed in September 2026. Practical exposure to UK GDPR / EU GDPR, DPIAs, RoPA, data mapping, DSAR processes and ISO 27001 principles, alongside Python- and SQL-based data analysis.
 
 Particularly interested in roles at the intersection of governance, privacy, data and technology risk.
 
@@ -16,9 +16,9 @@ Particularly interested in roles at the intersection of governance, privacy, dat
 
 | Area | Skills |
 |---|---|
-| Governance & Privacy | UK GDPR / EU GDPR Â· DPIA Â· RoPA Â· DSAR Â· Data Mapping Â· Privacy Risk Â· Compliance Monitoring |
-| Risk & Assurance | GRC frameworks Â· ISO 27001 principles Â· Operational Risk Â· Evidence Assessment Â· Audit Support Â· Regulatory Interpretation |
-| Technical & Data | Python Â· SQL Â· Data Cleaning Â· Data Validation Â· Exploratory Data Analysis Â· BI Reporting Â· Data Quality Â· Jira Â· Agile/Scrum |
+| Governance & Privacy | UK GDPR / EU GDPR · DPIA Â· RoPA · DSAR · Data Mapping · Privacy Risk · Compliance Monitoring |
+| Risk & Assurance | GRC frameworks · ISO 27001 principles · Operational Risk · Evidence Assessment · Audit Support · Regulatory Interpretation |
+| Technical & Data | Python · SQL · Data Cleaning · Data Validation · Exploratory Data Analysis · BI Reporting · Data Quality · Jira · Agile/Scrum |
 
 ## Selected technical project
 
@@ -46,14 +46,14 @@ Supports SMEs and self-employed professionals with personal-data discovery, risk
 
 ## Certifications
 
-- **GRC & Privacy:** GRCP Â· IDPP Â· IRMP (Integrated Risk Management Professional) Â· ICEP (Integrated Compliance & Ethics Professional) â OCEG
+- **GRC & Privacy:** GRCP · IDPP · IRMP (Integrated Risk Management Professional) · ICEP (Integrated Compliance & Ethics Professional) OCEG
 - **Information Security:** ISO 27001:2022 Professional
-- **Technology & Ethics (BCS):** Data Privacy, Governance and Policy in AI Â· Ethical IT Professional Â· Information Security Architecture
-- **Additional:** Certified Scrum Master Â· Ethical Hacking Professional Â· Knowledge Advisor, Certified (GSDC)
+- **Technology & Ethics (BCS):** Data Privacy, Governance and Policy in AI · Ethical IT Professional · Information Security Architecture
+- **Additional:** Certified Scrum Master · Ethical Hacking Professional · Knowledge Advisor, Certified (GSDC)
 
 ## Speaking
 
-- Keynote Speaker: GSDC Learning Series â AI Governance by Design, 7 August 2026
+- Keynote Speaker: GSDC Learning Series - AI Governance by Design, 7 August 2026
 
 ## Portfolio
 
@@ -67,19 +67,19 @@ Personal Python projects, organised by area and complexity, built alongside my G
 | [organizador-aulas](https://github.com/Baldassi1322/organizador-aulas) | Automation / Files | Intermediate | Scans a study folder (videos and PDFs) and generates a navigable HTML index grouped by module |
 | [book-manager](https://github.com/Baldassi1322/book-manager) | CLI / Database | Intermediate | Book collection manager with SQLite backend, full CRUD and CSV export |
 | [calculadora-ip-subnet](https://github.com/Baldassi1322/calculadora-ip-subnet) | Networking | Intermediate | CLI tool for IPv4 address and subnet (FLSM) calculations |
-| [personal-website](https://github.com/Baldassi1322/personal-website) | Front end | Beginner | Single-page site in vanilla HTML, CSS and JavaScript with light/dark theme |
+| [personal-website](https://github.com/Baldassi1322/personal-website) | Front-end | Beginner | Single-page site in vanilla HTML, CSS and JavaScript with light/dark theme |
 | [calculadora-tkinter](https://github.com/Baldassi1322/calculadora-tkinter) | Desktop / GUI | Beginner | Calculator with a Tkinter graphical interface |
 
 <details>
-<summary>ð§ð· Ler em PortuguÃªs (PT-BR)</summary>
+<summary>· Ler em (PT-BR)</summary>
 
 ### Sobre mim
 
-Profissional de GRC e Privacidade de Dados com formaÃ§Ã£o multidisciplinar em Direito, compliance regulatÃ³rio, investigaÃ§Ãµes, risco operacional, engenharia de software e anÃ¡lise de dados.
+Profissional de GRC e Privacidade de Dados com formação multidisciplinar em Direito, compliance regulatório, investigações, risco operacional, engenharia de software e análise de dados.
 
-Advogado com dupla habilitaÃ§Ã£o (Brasil e Portugal), com mais de 20 anos de experiÃªncia jurÃ­dica e regulatÃ³ria, e BEng (Hons) em Engenharia de Software concluÃ­do em setembro de 2026 pela University of Greater Manchester. ExperiÃªncia prÃ¡tica com UK GDPR / GDPR, DPIA, RoPA, mapeamento de dados, DSAR e princÃ­pios da ISO 27001, alÃ©m de anÃ¡lise de dados com Python e SQL.
+Advogado com dupla habilitação (Brasil e Portugal), com mais de 20 anos de experiência jurídica e regulatória, e BEng (Hons) em Engenharia de Software concluído em setembro de 2026 pela University of Greater Manchester. Experiência prática com UK GDPR / GDPR, DPIA, RoPA, mapeamento de dados, DSAR e princípios da ISO 27001, além de análise de dados com Python e SQL.
 
-Interesse especial em funÃ§Ãµes na interseÃ§Ã£o entre governanÃ§a, privacidade, dados e risco tecnolÃ³gico.
+Interesse especial em funções na interseção entre governança, privacidade, dados e risco tecnológico.
 
 **Projeto em destaque:** PII-Frame, motor de conformidade em privacidade multijurisdicional (UK/EU GDPR, LGPD e CCPA/CPRA), desenvolvido como projeto final do BEng.
 

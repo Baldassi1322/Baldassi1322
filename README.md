@@ -33,7 +33,7 @@ Supports SMEs and self-employed professionals with personal-data discovery, risk
 | Warehouse Assistant, Operations & Control Room | John Lewis, Buckinghamshire, UK | Aug 2020 to Present |
 | Data Analyst (Freelance) | Plyaz, London, UK | May 2025 to Present |
 | Lawyer, Compliance, Regulatory & Legal Advisory (Self-Employed) | Brazil / Portugal | Feb 2018 to Present |
-| Police Investigator, Intelligence & Evidence | SÃ£o Paulo State Government, Brazil | Jan 2012 to Dec 2017 |
+| Police Investigator, Intelligence & Evidence | Sao Paulo State Government, Brazil | Jan 2012 to Dec 2017 |
 | Lawyer, Litigation & Negotiation | Law Office of A.C. Alves dos Santos, Brazil | Nov 2008 to Dec 2011 |
 | Lawyer, Compliance, Regulatory & Legal Advisory (Self-Employed) | Brazil | Jan 2002 to Dec 2011 |
 
